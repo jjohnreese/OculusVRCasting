@@ -6,7 +6,7 @@ Check this tutorial to learn how: https://www.youtube.com/watch?v=mxzkVtrUWzc
 
 ![Alt text](https://github.com/jjohnreese/OculusVRCasting/blob/master/VR%20Wireless%20Casting.JPG "Screenshot")
 
-You can also Cast without connecting to the device Wirelessly, just click on cast after connecting to the device.
+You can also Cast without connecting to the device Wirelessly, just click on cast after connecting to the device to your PC Via USB.
 
 *After connecting you might get a message on the device to accept the connection, Check the Remeber PC checkbox and aprove the connection.
 
