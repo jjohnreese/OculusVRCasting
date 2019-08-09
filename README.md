@@ -1,6 +1,9 @@
 # OculusVRCasting
 Wireless Cast Oculus Quest or Oculus Go To PC.
 
+Latest Release: https://github.com/jjohnreese/OculusVRCasting/releases
+Download the VR.PC.Casting.zip, extract it and you are ready to go.
+
 *Developer Mode on your device must be enabled. 
 Check this tutorial to learn how: https://www.youtube.com/watch?v=mxzkVtrUWzc
 
